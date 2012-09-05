@@ -1,10 +1,9 @@
-#INCLUDE <IOSTREAM>
+#include <iostream>
 
 using std::cout;
 using std::endl;
 
 int main() {
-  cout << "hello world!" << endl << "another line" << endl;
-  cout << "goodbye!" << endl;
+  cout << "Hello World!" << endl;
   return 0;
 }
